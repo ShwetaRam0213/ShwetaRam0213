@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Shweta 👋
 
-<!--
-**ShwetaRam0213/ShwetaRam0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in Power BI, Excel, and SQL  
+🎨 Interested in combining data with design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building real-world data analysis projects  
+- Creating interactive dashboards in Power BI  
+- Improving SQL and data storytelling skills  
+
+---
+
+## 🛠️ Tools & Skills
+- Power BI  
+- Microsoft Excel  
+- SQL  
+- Data Cleaning & Visualization  
+
+---
+
+## 📌 Projects
+Here are some of my projects:
+
+🔹 Sales Dashboard (Power BI)  
+🔹 Data Cleaning in Excel  
+🔹 SQL Data Analysis Project  
+
+👉 Check my repositories below 👇
+
+---
+
+## 🌱 Currently Learning
+- Advanced Power BI  
+- Data storytelling  
+- Dashboard design  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/shwetaramsr/)
+---
+
+✨ “Learning step by step and growing every day”
