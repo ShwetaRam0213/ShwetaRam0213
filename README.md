@@ -1,3 +1,5 @@
+<img width="1200" height="400" alt="1" src="https://github.com/user-attachments/assets/16d6f583-c290-41ee-8643-2dc87636f692" />
+
 # Hi, I'm Shweta 👋
 
 🎯 Aspiring Data Analyst  
