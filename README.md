@@ -2,8 +2,6 @@
 
  <h1 align="center">Hi 👋, I'm Shweta</h1>
 
-<h3 align="center">Aspiring Data Analyst | Excel | Power BI | SQL</h3>
-
 ---
 
 🌱 I’m currently learning Data Analytics & Visualization  
