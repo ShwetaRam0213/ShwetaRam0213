@@ -9,7 +9,7 @@
 🌱 I’m currently learning Data Analytics & Visualization  
 📊 I love working with data and creating dashboards  
 💡 Interested in solving real-world problems using data  
-📫 How to reach me: your-email@gmail.com  
+📫 How to reach me: shwetar0213@gmail.com  
 
 ---
 
