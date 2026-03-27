@@ -1,48 +1,45 @@
 <img width="1200" height="400" alt="1" src="https://github.com/user-attachments/assets/16d6f583-c290-41ee-8643-2dc87636f692" />
 
-# Hi, I'm Shweta 👋
+ <h1 align="center">Hi 👋, I'm Shweta</h1>
 
-🎯 Aspiring Data Analyst  
-📊 Skilled in Power BI, Excel, and SQL  
-🎨 Interested in combining data with design  
+<h3 align="center">Aspiring Data Analyst | Excel | Power BI | SQL</h3>
 
 ---
 
-## 🚀 What I'm Working On
-- Building real-world data analysis projects  
-- Creating interactive dashboards in Power BI  
-- Improving SQL and data storytelling skills  
+🌱 I’m currently learning Data Analytics & Visualization  
+📊 I love working with data and creating dashboards  
+💡 Interested in solving real-world problems using data  
+📫 How to reach me: your-email@gmail.com  
 
 ---
 
-## 🛠️ Tools & Skills
+## 🚀 What I Do:
+- Analyze data using Excel & SQL  
+- Build dashboards using Power BI  
+- Clean and transform data  
+- Create reports and insights  
+
+---
+
+## 🛠 Skills:
+- Excel  
 - Power BI  
-- Microsoft Excel  
-- SQL  
-- Data Cleaning & Visualization  
+- SQL
+- Data Visualization  
 
 ---
 
-## 📌 Projects
-Here are some of my projects:
+## 📊 Projects:
+- Sales Dashboard (Power BI)  
+- Excel Data Analysis Project  
+- SQL Data Cleaning Project  
 
-🔹 Sales Dashboard (Power BI)  
-🔹 Data Cleaning in Excel  
-🔹 SQL Data Analysis Project  
+---
+
+## ⚡ Fun Fact:
+I enjoy turning raw data into meaningful insights 📈
+✨ “Learning step by step and growing every day”
 
 👉 Check my repositories below 👇
 
----
 
-## 🌱 Currently Learning
-- Advanced Power BI  
-- Data storytelling  
-- Dashboard design  
-
----
-
-## 📫 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/shwetaramsr/)
----
-
-✨ “Learning step by step and growing every day”
