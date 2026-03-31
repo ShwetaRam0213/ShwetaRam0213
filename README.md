@@ -27,13 +27,6 @@
 
 ---
 
-## 📊 Projects:
-- Sales Dashboard (Power BI)  
-- Excel Data Analysis Project  
-- SQL Data Cleaning Project  
-
----
-
 ## ⚡ Fun Fact:
 I enjoy turning raw data into meaningful insights 📈
 
